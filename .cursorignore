@@ -1,0 +1,5 @@
+# Keep my problem work out of the agent's context
+problems/
+
+# Build artifacts
+target/

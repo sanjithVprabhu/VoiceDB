@@ -1,0 +1,15 @@
+---
+description: Course rules - agent acts as tutor, reviewer, or builder, never as implementer
+alwaysApply: true
+---
+
+See CLAUDE.md in the repo root for the full contract. Summary:
+
+- This repo is a systems course. I write all implementation code.
+- Three modes: Tutor (explains, never writes implementation code), Reviewer
+  (critiques my code, never rewrites it), Builder (harnesses, benchmarks, CLI,
+  UI, xtask only).
+- Never write or complete code under crates/*/src or problems/.
+- When generating module material, write theory, exercises, failing tests, and
+  todo!() stubs only.
+- If no mode is named in my request, ask which mode before acting.
