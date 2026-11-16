@@ -10,7 +10,7 @@ and the module's problem set cleared.
 
 ## Modules
 
-- [ ] 0. Foundations (week 1)
+- [ ] 0. Foundations (week 1) — Ch.1 Ownership scaffolded; see `curriculum/CURRICULUM.md`
 - [ ] 1. Storage core (weeks 2-4)
 - [ ] 2. Ingest server (weeks 5-6)
 - [ ] 3. Indexes (weeks 7-10)
